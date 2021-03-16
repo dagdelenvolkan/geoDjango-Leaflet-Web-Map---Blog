@@ -137,4 +137,4 @@ USE_TZ = True
 STATIC_URL = '/static/'
 
 # Windows için
-GDAL_LIBRARY_PATH = r'..\env\Lib\site-packages\osgeo\gdal302.dll'
+GDAL_LIBRARY_PATH = r'..\env\Lib\site-packages\osgeo\gdal301.dll'

@@ -1,3 +1,9 @@
-from django.shortcuts import render
+from .serializers import SaglikSerializer
+from rest_framework import viewsets
+from .models import Saglik
 
-# Create your views here.
+
+
+class SaglikViewSet(viewsets.ModelViewSet):
+    queryset         = Saglik.objects.all()
+    serializer_class = SaglikSerializer
