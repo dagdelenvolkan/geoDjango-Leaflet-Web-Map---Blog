@@ -1,6 +1,6 @@
 # Blog yazısı linkleri
-- [Django, LafletJS ve Postgres ile Web Haritası Yapımı - 1. Kısım](https://volkandagdelen.medium.com/django-lafletjs-ve-postgres-ile-web-haritas%C4%B1-yap%C4%B1m%C4%B1-1-k%C4%B1s%C4%B1m-5be5a7d6f071)
-- [Django, LafletJS ve Postgres ile Web Haritası Yapımı - 2. Kısım](https://volkandagdelen.medium.com/django-lafletjs-ve-postgres-ile-web-haritas%C4%B1-yap%C4%B1m%C4%B1-2-k%C4%B1s%C4%B1m-79ade6e8811b)
+- [Django, LeafletJS ve Postgres ile Web Haritası Yapımı - 1. Kısım](https://volkandagdelen.medium.com/django-lafletjs-ve-postgres-ile-web-haritas%C4%B1-yap%C4%B1m%C4%B1-1-k%C4%B1s%C4%B1m-5be5a7d6f071)
+- [Django, LeafletJS ve Postgres ile Web Haritası Yapımı - 2. Kısım](https://volkandagdelen.medium.com/django-lafletjs-ve-postgres-ile-web-haritas%C4%B1-yap%C4%B1m%C4%B1-2-k%C4%B1s%C4%B1m-79ade6e8811b)
 
 # Repo'nun Amacı
 - Bu repo blog yazısı için hazırlanmıştır.
